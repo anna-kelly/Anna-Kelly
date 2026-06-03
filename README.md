@@ -118,7 +118,7 @@ anna_kelly = {
 | 🖥️ Técnico em Tecnologia da Informação | IMD / UFRN | ▶️ Cursando (módulo básico) |
 | 🐍 Análise de Dados com Python | Programaria | ▶️ Cursando (60h) |
 | ⚙️ Engenharia de Software | EAD | ✅ 6 períodos concluídos |
-| 🏆 Trilha Data Member — Projeto Edenred | Growdev | ✅ Jan/2026 (10h) |
+| 🏆 Trilha Data Member — Projeto Edenred | Growdev | ✅ Set/2025 a Jan/2026 |
 | 📊 Bootcamp Santander — Ciência de Dados | DIO | ✅ Concluído |
 | 🔄 ETL com Python | DIO | ✅ Concluído |
 | 🎓 Pós-graduação em Gestão de Pessoas | — | ✅ Concluído |
